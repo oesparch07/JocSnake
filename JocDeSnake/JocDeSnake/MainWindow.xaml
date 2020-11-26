@@ -1,0 +1,26 @@
+﻿<Window x:Class="JocDeSnake.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:JocDeSnake"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="400" Width="500" KeyDown="Window_KeyDown">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="5*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Canvas
+            x:Name="pantallaJoc"
+            Grid.Row="0"
+            Background="Beige"
+            />
+        <Button
+            x:Name="btnInicaJoc"
+            Grid.Row="1"
+            Margin="5"
+            Content="Jugar!"
+            Click="btnInicaJoc_Click"/>
+    </Grid>
+</Window>

@@ -1,0 +1,14 @@
+C:\Users\oriol\source\repos\JocDeSnake\JocDeSnake\bin\Debug\JocDeSnake.exe.config
+C:\Users\oriol\source\repos\JocDeSnake\JocDeSnake\bin\Debug\JocDeSnake.exe
+C:\Users\oriol\source\repos\JocDeSnake\JocDeSnake\bin\Debug\JocDeSnake.pdb
+C:\Users\oriol\source\repos\JocDeSnake\JocDeSnake\obj\Debug\JocDeSnake.csprojAssemblyReference.cache
+C:\Users\oriol\source\repos\JocDeSnake\JocDeSnake\obj\Debug\MainWindow.g.cs
+C:\Users\oriol\source\repos\JocDeSnake\JocDeSnake\obj\Debug\App.g.cs
+C:\Users\oriol\source\repos\JocDeSnake\JocDeSnake\obj\Debug\JocDeSnake_MarkupCompile.cache
+C:\Users\oriol\source\repos\JocDeSnake\JocDeSnake\obj\Debug\JocDeSnake_MarkupCompile.lref
+C:\Users\oriol\source\repos\JocDeSnake\JocDeSnake\obj\Debug\MainWindow.baml
+C:\Users\oriol\source\repos\JocDeSnake\JocDeSnake\obj\Debug\JocDeSnake.g.resources
+C:\Users\oriol\source\repos\JocDeSnake\JocDeSnake\obj\Debug\JocDeSnake.Properties.Resources.resources
+C:\Users\oriol\source\repos\JocDeSnake\JocDeSnake\obj\Debug\JocDeSnake.csproj.GenerateResource.cache
+C:\Users\oriol\source\repos\JocDeSnake\JocDeSnake\obj\Debug\JocDeSnake.exe
+C:\Users\oriol\source\repos\JocDeSnake\JocDeSnake\obj\Debug\JocDeSnake.pdb
